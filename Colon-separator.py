@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-#Script By Oxconft
+#Script By 0xconft
 
 import sys
 
